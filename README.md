@@ -1,2 +1,2 @@
-# ML_HWork_52894_SE5
+# ML Home Work 52894 SE5
 Machine Learning HomeWork/Assignment Repo
